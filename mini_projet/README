@@ -1,0 +1,7 @@
+Voici le mini projet 
+Dans le dossier public vous trouverez 2 fichiers un index.html qui génére la page et script.js qui génére le code javascript.
+Et un autre dossier librairies qui comporte les librairies importer pour le mini projet. 
+Pour le faire fonctionné il lancer  app.js avec node command prompt et ensuite sur un navigateur web et entre dans la barre de recherche
+"http://localhost:3000/" 
+Vous arrivez sur la page qui va gerer le mini-projet ici vous pourrez creer votre compte (Il faut en creer au moins 4 pour pouvoir noté 3 personnes) 
+et vous connecté et entrer les notes.
