@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Courtes, Goulven, Benoxiid",
+  "author": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.16.4",
