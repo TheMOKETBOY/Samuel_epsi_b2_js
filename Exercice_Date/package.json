@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "install": "^0.12.2",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "node-datetime": "^2.1.2",
     "utils-error-to-json": "^1.0.0"
   }
